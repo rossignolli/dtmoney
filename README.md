@@ -1,46 +1,55 @@
-# Getting Started with Create React App
+<p align="center">
+   <img src="./.github/logo.svg" alt="Move It" width="300"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<p align="center">
+  :moneybag: Controle suas finanças. Projeto foi realizado durante treinamento do Ignite da Rocketseat. | <a href="https://github.com/Rocketseat">@Rocketseat</a>
+</p>
 
-In the project directory, you can run:
+<div align="center">
+  <sub> Made with 💖 by
+    <a href="https://github.com/rossignolli">Vitor Rossignolli.
+  </sub>
+</div>
 
-### `yarn start`
+* [Screenshots](#camera-screenshot) 
+* [Tecnologias](#rocket-technologies) 
+* [Como rodar](#computer-how-to-run)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* [License](#page_facing_up-license)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# :camera: Screenshots
+<div align="center">
+   <img src="./.github/screen1.png">
+   <img src="./.github/screen2.png">
+   <img src="./.github/screen3.png">
+   <img src="./.github/screen4.png">
+</div>
 
-### `yarn test`
+# :rocket: Tecnologias
+Esse projeto foi feito com as seguintes ferramentas:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [Typescript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)      
+* [Styled Components](https://styled-components.com/)
+* [MirageJS](https://miragejs.com/)
 
-### `yarn build`
+# :computer: Como rodar
+```bash
+# Clone este repositório
+$ git clone
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Instale as dependecias
+$ yarn
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Rode a aplicação
+$ yarn start
+```
+Go to http://localhost:3000/ to see the result.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# :page_facing_up: License
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is under the [MIT license](./LICENSE).
