@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.svg" alt="Move It" width="300"/>
+   <img src="./images/logo.svg" alt="Move It" width="300"/>
 </p>
 
 
@@ -13,18 +13,10 @@
   </sub>
 </div>
 
-* [Screenshots](#camera-screenshot) 
-* [Tecnologias](#rocket-technologies) 
-* [Como rodar](#computer-how-to-run)
-
-* [License](#page_facing_up-license)
-
 # :camera: Screenshots
 <div align="center">
-   <img src="./.github/screen1.png">
-   <img src="./.github/screen2.png">
-   <img src="./.github/screen3.png">
-   <img src="./.github/screen4.png">
+   <img src="./images/capture1.png">
+   <img src="./images/capture2.png">
 </div>
 
 # :rocket: Tecnologias
