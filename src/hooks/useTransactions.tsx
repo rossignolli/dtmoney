@@ -40,7 +40,6 @@ export function TransactionsProvider({children}: TransactionsProviderProps){
             ...transactionInput,
             createdAt: new Date(),
         })
-        console.log(response)
         const {transaction} = response.data;
         setTransactions([...transactions, transaction])
     }
